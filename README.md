@@ -4,7 +4,7 @@ By : Jason Da Cunha - Walid BoulBoul 5IW1
 
 ## Description
 
-Use terraform to create a VM in AWS and build a voting app in it.
+Use terraform to create a VM in AWS and build a [voting app](https://github.com/dockersamples/example-voting-app) in it.
 
 ## Project installation
 
